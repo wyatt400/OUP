@@ -12,6 +12,7 @@
       <li>Be sure to include your age (in years), gender, full name, and email address.
       <li>Then, send.
       <li>The OUP will review this information in the next meeting. Meanwhile, sit back and relax. You will be notified if you have passed or failed the membership criteria.
+      <ul/>
         
 <h2>Official Members:</h2>
     <ul>
