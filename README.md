@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <h1>Welcome to the Official Website of the Organization of United People!<h1/>
 <h2>Information</h2>
   <p>The Organization of United People, often referred to as OUP, is an organization in which members engage in chat and entertainment. It was founded in 2019 by Wyatt Seungri Baek and Bhuvan Vellamena.<p/>
