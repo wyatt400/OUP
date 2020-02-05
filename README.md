@@ -20,5 +20,5 @@
       <li><p>Wyatt Seungri Baek (Vice Chair)</p>
       <li><p>Aditya Karthik Meruga (Secretary)</p>
       <li><p>Anthony Tatsuta</p>
-      <li<p>>Chelsea Chen</p>
+      <li><p>Chelsea Chen</p>
     </ul>
