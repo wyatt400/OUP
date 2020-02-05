@@ -6,19 +6,19 @@
 <h2>Joining the Organization</h2>
   <p><b>Steps to Join:</b></p>
     <ul>
-      <li>Email the OUP at seungri400@gmail.com.
-      <li>Title your email: OUP Membership.
-      <li>List why you want membership.
-      <li>Be sure to include your age (in years), gender, full name, and email address.
-      <li>Then, send.
-      <li>The OUP will review this information in the next meeting. Meanwhile, sit back and relax. You will be notified if you have passed or failed the membership criteria.
+      <li><p>Email the OUP at seungri400@gmail.com.</p>
+      <li><p>Title your email: OUP Membership.</p>
+      <li><p>List why you want membership.</p>
+      <li><p>Be sure to include your age (in years), gender, full name, and email address.</p>
+      <li><p>Then, send.</p>
+      <li><p>The OUP will review this information in the next meeting. Meanwhile, sit back and relax. You will be notified if you have passed or failed the membership criteria.</p>
     </ul>
     
 <h2>Official Members:</h2>
     <ul>
-      <li>Bhuvan Vellamena (Chair)
-      <li>Wyatt Seungri Baek (Vice Chair)
-      <li>Aditya Karthik Meruga (Secretary)
-      <li>Anthony Tatsuta
-      <li>Chelsea Chen
+      <li><p>Bhuvan Vellamena (Chair)</p>
+      <li><p>Wyatt Seungri Baek (Vice Chair)</p>
+      <li><p>Aditya Karthik Meruga (Secretary)</p>
+      <li><p>Anthony Tatsuta</p>
+      <li<p>>Chelsea Chen</p>
     </ul>
